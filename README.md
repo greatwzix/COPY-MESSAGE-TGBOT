@@ -1,1 +1,1 @@
-Simple Go telegram bot using telego
+В botToken складываем токен и о магия бот повторяет ваши сообщения (GO GO GO)
